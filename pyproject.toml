@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Uma forma simples de conexão com o Telegram de forma assíncrona em Python."
 authors = ["Diaszano <lucasdiiassantos@gmail.com>"]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
